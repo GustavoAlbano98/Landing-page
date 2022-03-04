@@ -1,0 +1,1 @@
+Projeto independente de uma landing page desenvolvida por João Gustavo.
